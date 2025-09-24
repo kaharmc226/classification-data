@@ -1,4 +1,4 @@
-name,price,building_area,land_area,bedrooms,bathrooms,garage
+Nama,Harga,LB,LT,KT,KM,GRS
 "Rumah Murah Hook Tebet Timur, Tebet, Jakarta Selatan",3800000000,220,220,3,3,0
 "Rumah Modern di Tebet dekat Stasiun, Tebet, Jakarta Selatan",4600000000,180,137,4,3,2
 "Rumah Mewah 2 Lantai Hanya 3 Menit Ke Tebet, Tebet, Jakarta Selatan",3000000000,267,250,4,4,4
@@ -1007,3 +1007,4 @@ Rumah Strategis Akses Jalan 2mobil Di Menteng Dalam Tebet Jak Sel,9000000000,450
 Tebet Rumah Siap Huni Jln 2 Mbl Nyaman,4000000000,160,140,4,3,2
 Dijual Cepat Rumah Komp Depkeu Dr Soepomo Tebet Jakarta Selatan,19000000000,360,606,7,4,0
 Dijual Rumah Kokoh Di Gudang Peluru,10500000000,420,430,7,4,2
+
